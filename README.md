@@ -1,1 +1,3 @@
-# FoodRecipe.guithub.io
+# Food Recipe App 
+# Using API 
+# Vanilla JS Project/No FrameWork
